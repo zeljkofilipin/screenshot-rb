@@ -4,12 +4,12 @@
 
 - Ruby (if you are using Homebrew on Mac):
 
-    brew install ruby
+        brew install ruby
 
 - Required Ruby gems:
 
-    gem install bundler
-    bundle install
+        gem install bundler
+        bundle install
 
 # Run
 
