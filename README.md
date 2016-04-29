@@ -1,6 +1,8 @@
 # Screenshot
 
-# Installation
+## Installation
+
+- Firefox
 
 - Ruby (if you are using Homebrew on Mac):
 
@@ -11,10 +13,10 @@
         gem install bundler
         bundle install
 
-# Run
+## Run
 
     ruby screenshot.rb https://www.wikipedia.org/
 
-# Results
+## Results
 
 There will be `screenshot.png` file in the folder.
